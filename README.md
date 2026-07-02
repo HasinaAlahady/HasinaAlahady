@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HASINA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20JavaScript%20%26%20React%20%7C%20PHP%20%26%20Java%20%7C%20PostgreSQL&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HASINA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header banner"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+HASINA+%F0%9F%91%8B;Python+Developer;JavaScript+%26+React+Dev;PHP+%26+Java+Enthusiast;PostgreSQL+%26+Git+Lover" alt="Typing SVG" />
@@ -31,11 +31,6 @@
 <br/>
 
 ## 📊 Animated Insights & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasinaAlahady&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasinaAlahady&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasinaAlahady&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
