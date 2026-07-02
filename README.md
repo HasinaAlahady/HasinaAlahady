@@ -36,13 +36,14 @@
 
 <br/>
 
-<!-- Badges nets/plats pour recap rapide du stack -->
+<!-- Logos qui rebondissent en cascade (animation SVG native) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,php,java,postgres,git" alt="Skill icons" />
+  <img src="bouncing_logos.svg" alt="Bouncing tech logos" width="90%" />
 </div>
 
 <br/>
 
+## 📊 Animated Insights & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%" />
