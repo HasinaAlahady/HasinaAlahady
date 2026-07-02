@@ -1,8 +1,8 @@
-# Hi there! I'm [Your Name] 👋 
+# Hi there! I'm HASINA 👋 
 
 <div align="center">
-  <!-- Dynamic Typing Animation Cycling Through Your Name and Core Stack -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=[Your+Name];Python;JavaScript;React;PHP;Java;PostgreSQL;Git" alt="Typing SVG" />
+  <!-- Dynamic Typing Animation Cycling Through Your Name and Tech Stack -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=HASINA;Python+Developer;JavaScript+%26+React;PHP+%26+Java;PostgreSQL+%26+Git" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,17 +10,17 @@
 ### 🚀 About Me
 
 - ⚡ **Fun Fact:** I turn coffee into code and ideas into reality.
-- 🔭 **Current Focus:** Crafting awesome digital experiences at [Your Company/Project].
-- 🌱 **Learning Zone:** Leveling up my development skills every day.
-- 💬 **Let's Talk:** Ask me about building robust applications or tech trends.
+- 🔭 **Current Focus:** Crafting awesome digital experiences and robust applications.
+- 🌱 **Learning Zone:** Leveling up my development skills every single day.
+- 💬 **Let's Talk:** Ask me about Python, React, databases, or anything tech-related.
 - ✉️ **Reach Me:** Drop a line at `your.email@example.com`
 
 ---
 
-### 🛠️ My Animated Tech Stack
+### 🛠️ My Tech Stack
 
 <div align="center">
-  <!-- These individual tech logos have constant, built-in neon animations (glowing/moving) -->
+  <!-- Constantly glowing individual neon logos matching your stack -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/python.gif" width="55" height="55" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/javascript.gif" width="55" height="55" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/react.gif" width="55" height="55" alt="React" />
