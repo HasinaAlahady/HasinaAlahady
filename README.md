@@ -1,7 +1,7 @@
 # Hi there! I'm [Your Name] 👋 
 
 <div align="center">
-  <!-- Typing Animation -->
+  <!-- Dynamic Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -17,16 +17,20 @@
 
 ---
 
-### 🛠️ My Tech Stack & Animated Skills
+### 🛠️ My Animated Tech Stack
 
 <div align="center">
-  <!-- 
-  These icons feature smooth animation effects! 
-  You can add or remove icons by editing the "i=" list in the URL.
-  -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" />
-  </a>
+  <!-- These individual tech logos have constant, built-in animations (glowing/moving) -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/html.gif" width="50" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/css.gif" width="50" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/javascript.gif" width="50" height="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/typescript.gif" width="50" height="50" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/react.gif" width="50" height="50" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/nextjs.gif" width="50" height="50" alt="NextJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/nodejs.gif" width="50" height="50" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/python.gif" width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/mongodb.gif" width="50" height="50" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/git.gif" width="50" height="50" alt="Git" />
 </div>
 
 <br/>
@@ -40,7 +44,7 @@
 ### 📊 Animated Insights & Stats
 
 <div align="center">
-  <!-- Remember to replace 'your-github-username' with your actual username -->
+  <!-- Replace 'your-github-username' with your actual username -->
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
