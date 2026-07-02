@@ -32,13 +32,11 @@
 
 <br/>
 
-
 <div align="center">
-  <img src="bouncing_logos.svg" alt="Bouncing tech logos" width="90%" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,php,java,postgres,git" alt="Skill icons" />
 </div>
 
 <br/>
-
 
 
 <div align="center">
