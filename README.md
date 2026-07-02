@@ -1,32 +1,38 @@
 # Hi there! I'm [Your Name] 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Building+the+Future..." alt="Typing SVG" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwZzZ6b3Z1bnd4N2R5M3M2bndreXN0dW92MXF4M3ZidG9wazF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
+- ⚡ **Fun Fact:** I turn coffee into code and ideas into reality.
+- 🔭 **Current Focus:** Crafting awesome digital experiences at [Your Company/Project].
+- 🌱 **Learning Zone:** Exploring the depths of [New Tech, e.g., AI/Next.js/Rust].
+- 💬 **Let's Talk:** Ask me about UI/UX, database optimization, or tech trends.
+- ✉️ **Reach Me:** Drop a line at `your.email@example.com`
 
+---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack & Animated Skills
 
 <div align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <br/>
-  
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- 
+  These icons feature smooth animation effects! 
+  You can add or remove icons by editing the "i=" list in the URL.
+  -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwZzZ6b3Z1bnd4N2R5M3M2bndreXN0dW92MXF4M3ZidG9wazF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Coding GIF" />
 </div>
 
 ---
@@ -34,7 +40,7 @@
 ### 📊 Animated Insights & Stats
 
 <div align="center">
-  <!-- Replace 'your-github-username' with your actual username -->
+  <!-- Remember to replace 'your-github-username' with your actual username -->
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
@@ -60,5 +66,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
