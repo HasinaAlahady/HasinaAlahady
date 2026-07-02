@@ -10,13 +10,6 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwZzZ6b3Z1bnd4N2R5M3M2bndreXN0dW92MXF4M3ZidG9wazF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
 
-- ⚡ **Fun Fact:** I turn coffee into code and ideas into reality.
-- 🔭 **Current Focus:** Crafting awesome digital experiences at [Your Company/Project].
-- 🌱 **Learning Zone:** Exploring the depths of [New Tech, e.g., AI/Next.js/Rust].
-- 💬 **Let's Talk:** Ask me about UI/UX, database optimization, or gaming.
-- ✉️ **Reach Me:** Drop a line at `your.email@example.com`
-
----
 
 ### 🛠️ My Tech Stack
 
