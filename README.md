@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HASINA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20JavaScript%20%26%20React%20%7C%20PHP%20%26%20Java%20%7C%20PostgreSQL&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
@@ -19,18 +18,7 @@
 
 <!-- Profile view counter -->
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
-
-<br/>
-
-## 🚀 About Me
-
-- ⚡ **Fun Fact:** I turn coffee into code and ideas into reality.
-- 🔭 **Current Focus:** Crafting awesome digital experiences and robust applications.
-- 🌱 **Learning Zone:** Leveling up my development skills every single day.
-- 💬 **Let's Talk:** Ask me about Python, React, databases, or anything tech-related.
-- ✉️ **Reach Me:** Drop a line at `your.email@example.com`
 
 <br/>
 
@@ -48,7 +36,13 @@
 
 <br/>
 
-## 📊 Animated Insights & Stats
+<!-- Badges nets/plats pour recap rapide du stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,php,java,postgres,git" alt="Skill icons" />
+</div>
+
+<br/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%" />
@@ -61,19 +55,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<!--
-  ⚠️ Mba hisy an'io animation "snake eating your contributions" io eo amin'ny profile-nao,
-  dia mila mametraka GitHub Action ianao (README-nao ihany tsy ampy).
-  Fomba fanaovana azy, ao amin'ny fizarana "Fanamarihana" any ambany.
--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
 </div>
 
 <br/>
