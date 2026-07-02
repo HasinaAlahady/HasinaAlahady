@@ -1,8 +1,8 @@
 # Hi there! I'm [Your Name] 👋 
 
 <div align="center">
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <!-- Dynamic Typing Animation Cycling Through Your Name and Core Stack -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=[Your+Name];Python;JavaScript;React;PHP;Java;PostgreSQL;Git" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,8 +11,8 @@
 
 - ⚡ **Fun Fact:** I turn coffee into code and ideas into reality.
 - 🔭 **Current Focus:** Crafting awesome digital experiences at [Your Company/Project].
-- 🌱 **Learning Zone:** Exploring the depths of [New Tech, e.g., AI/Next.js/Rust].
-- 💬 **Let's Talk:** Ask me about UI/UX, database optimization, or tech trends.
+- 🌱 **Learning Zone:** Leveling up my development skills every day.
+- 💬 **Let's Talk:** Ask me about building robust applications or tech trends.
 - ✉️ **Reach Me:** Drop a line at `your.email@example.com`
 
 ---
@@ -20,23 +20,14 @@
 ### 🛠️ My Animated Tech Stack
 
 <div align="center">
-  <!-- These individual tech logos have constant, built-in animations (glowing/moving) -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/html.gif" width="50" height="50" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/css.gif" width="50" height="50" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/javascript.gif" width="50" height="50" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/typescript.gif" width="50" height="50" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/react.gif" width="50" height="50" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/nextjs.gif" width="50" height="50" alt="NextJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/nodejs.gif" width="50" height="50" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/python.gif" width="50" height="50" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/mongodb.gif" width="50" height="50" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/git.gif" width="50" height="50" alt="Git" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwZzZ6b3Z1bnd4N2R5M3M2bndreXN0dW92MXF4M3ZidG9wazF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Coding GIF" />
+  <!-- These individual tech logos have constant, built-in neon animations (glowing/moving) -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/python.gif" width="55" height="55" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/javascript.gif" width="55" height="55" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/react.gif" width="55" height="55" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/php.gif" width="55" height="55" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/java.gif" width="55" height="55" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/postgresql.gif" width="55" height="55" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-glowing-icons/main/git.gif" width="55" height="55" alt="Git" />
 </div>
 
 ---
